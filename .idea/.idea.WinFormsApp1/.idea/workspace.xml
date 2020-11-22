@@ -4,11 +4,32 @@
     <projectFile>WinFormsApp1/WinFormsApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9918e325-dc2c-4011-b9fa-65400cbd6be0" name="Default Changelist" comment="" />
+    <list default="true" id="9918e325-dc2c-4011-b9fa-65400cbd6be0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinFormsApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WinFormsApp1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinFormsApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WinFormsApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/bin/Debug/netcoreapp3.1/WinFormsApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/bin/Debug/netcoreapp3.1/WinFormsApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/bin/Debug/netcoreapp3.1/WinFormsApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/bin/Debug/netcoreapp3.1/WinFormsApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/WinFormsApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/WinFormsApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormsApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormsApp1/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iFIGr2KJdkbnEu3aQwkzGEdoGx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="ReSpellerSettingsId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -60,6 +82,7 @@
       <updated>1601496822072</updated>
       <workItem from="1601496855537" duration="4546000" />
       <workItem from="1601501777170" duration="754000" />
+      <workItem from="1606049373370" duration="4746000" />
     </task>
     <servers />
   </component>
@@ -72,30 +95,43 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="154" key="GridCell.Tab.0.bottom" timestamp="1601502530932">
-      <screen x="0" y="40" width="1920" height="1040" />
+    <state x="92" y="132" width="2376" height="1216" key="DiffContextDialog" timestamp="1606051029673">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="92" y="132" width="2376" height="1216" key="DiffContextDialog/0.40.2560.1400/2560.360.1920.1080@0.40.2560.1400" timestamp="1606051029673" />
+    <state width="2517" height="223" key="GridCell.Tab.0.bottom" timestamp="1606053538451">
+      <screen x="2560" y="360" width="1920" height="1080" />
     </state>
     <state width="1877" height="154" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.306.1024.768@0.40.1920.1040" timestamp="1601502530932" />
-    <state width="1877" height="154" key="GridCell.Tab.0.center" timestamp="1601502530932">
-      <screen x="0" y="40" width="1920" height="1040" />
+    <state width="2517" height="223" key="GridCell.Tab.0.bottom/0.40.2560.1400/2560.360.1920.1080@0.40.2560.1400" timestamp="1606050388759" />
+    <state width="2517" height="223" key="GridCell.Tab.0.bottom/0.40.2560.1400/2560.360.1920.1080@2560.360.1920.1080" timestamp="1606053538451" />
+    <state width="2517" height="223" key="GridCell.Tab.0.center" timestamp="1606053538451">
+      <screen x="2560" y="360" width="1920" height="1080" />
     </state>
     <state width="1877" height="154" key="GridCell.Tab.0.center/0.40.1920.1040/1920.306.1024.768@0.40.1920.1040" timestamp="1601502530932" />
-    <state width="1877" height="154" key="GridCell.Tab.0.left" timestamp="1601502530932">
-      <screen x="0" y="40" width="1920" height="1040" />
+    <state width="2517" height="223" key="GridCell.Tab.0.center/0.40.2560.1400/2560.360.1920.1080@0.40.2560.1400" timestamp="1606050388759" />
+    <state width="2517" height="223" key="GridCell.Tab.0.center/0.40.2560.1400/2560.360.1920.1080@2560.360.1920.1080" timestamp="1606053538451" />
+    <state width="2517" height="223" key="GridCell.Tab.0.left" timestamp="1606053538451">
+      <screen x="2560" y="360" width="1920" height="1080" />
     </state>
     <state width="1877" height="154" key="GridCell.Tab.0.left/0.40.1920.1040/1920.306.1024.768@0.40.1920.1040" timestamp="1601502530932" />
-    <state width="1877" height="154" key="GridCell.Tab.0.right" timestamp="1601502530932">
-      <screen x="0" y="40" width="1920" height="1040" />
+    <state width="2517" height="223" key="GridCell.Tab.0.left/0.40.2560.1400/2560.360.1920.1080@0.40.2560.1400" timestamp="1606050388759" />
+    <state width="2517" height="223" key="GridCell.Tab.0.left/0.40.2560.1400/2560.360.1920.1080@2560.360.1920.1080" timestamp="1606053538451" />
+    <state width="2517" height="223" key="GridCell.Tab.0.right" timestamp="1606053538451">
+      <screen x="2560" y="360" width="1920" height="1080" />
     </state>
     <state width="1877" height="154" key="GridCell.Tab.0.right/0.40.1920.1040/1920.306.1024.768@0.40.1920.1040" timestamp="1601502530932" />
+    <state width="2517" height="223" key="GridCell.Tab.0.right/0.40.2560.1400/2560.360.1920.1080@0.40.2560.1400" timestamp="1606050388759" />
+    <state width="2517" height="223" key="GridCell.Tab.0.right/0.40.2560.1400/2560.360.1920.1080@2560.360.1920.1080" timestamp="1606053538451" />
     <state x="658" y="261" key="RiderGenerateDialog" timestamp="1601500070483">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="658" y="261" key="RiderGenerateDialog/0.40.1920.1040/1920.306.1024.768@0.40.1920.1040" timestamp="1601500070483" />
-    <state x="461" y="204" key="SettingsEditor" timestamp="1601500066324">
-      <screen x="0" y="40" width="1920" height="1040" />
+    <state x="615" y="261" key="SettingsEditor" timestamp="1606050068953">
+      <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="461" y="204" key="SettingsEditor/0.40.1920.1040/1920.306.1024.768@0.40.1920.1040" timestamp="1601500066324" />
+    <state x="615" y="261" key="SettingsEditor/0.40.2560.1400/2560.360.1920.1080@0.40.2560.1400" timestamp="1606050068953" />
     <state x="616" y="260" key="run.anything.popup" timestamp="1601500542319">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>

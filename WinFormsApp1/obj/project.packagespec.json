@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Kazeev\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+    "projectUniqueName": "C:\\Users\\Kazeev\\Documents\\C#\\Reg\\WinFormsApp1\\WinFormsApp1.csproj",
     "projectName": "WinFormsApp1",
-    "projectPath": "C:\\Users\\Kazeev\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-    "outputPath": "C:\\Users\\Kazeev\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\obj\\",
+    "projectPath": "C:\\Users\\Kazeev\\Documents\\C#\\Reg\\WinFormsApp1\\WinFormsApp1.csproj",
+    "outputPath": "C:\\Users\\Kazeev\\Documents\\C#\\Reg\\WinFormsApp1\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

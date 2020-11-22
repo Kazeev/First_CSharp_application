@@ -36,11 +36,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.textSerch = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonRun
             // 
-            this.buttonRun.Location = new System.Drawing.Point(86, 293);
+            this.buttonRun.Location = new System.Drawing.Point(87, 386);
             this.buttonRun.Name = "buttonRun";
             this.buttonRun.Size = new System.Drawing.Size(75, 23);
             this.buttonRun.TabIndex = 0;
@@ -51,10 +52,10 @@
             // 
             // textIn
             // 
-            this.textIn.Location = new System.Drawing.Point(12, 80);
+            this.textIn.Location = new System.Drawing.Point(12, 124);
             this.textIn.Multiline = true;
             this.textIn.Name = "textIn";
-            this.textIn.Size = new System.Drawing.Size(229, 105);
+            this.textIn.Size = new System.Drawing.Size(229, 177);
             this.textIn.TabIndex = 1;
             this.textIn.Tag = "";
             // 
@@ -62,7 +63,7 @@
             // 
             this.textOut.BackColor = System.Drawing.SystemColors.ControlLight;
             this.textOut.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textOut.Location = new System.Drawing.Point(12, 213);
+            this.textOut.Location = new System.Drawing.Point(12, 321);
             this.textOut.Name = "textOut";
             this.textOut.Size = new System.Drawing.Size(229, 62);
             this.textOut.TabIndex = 2;
@@ -73,7 +74,7 @@
             this.reg.Name = "reg";
             this.reg.Size = new System.Drawing.Size(229, 20);
             this.reg.TabIndex = 3;
-            this.reg.Text = "\\b[M]\\w+";
+            this.reg.Text = "\\s";
             this.reg.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label1
@@ -87,7 +88,7 @@
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(12, 59);
+            this.label2.Location = new System.Drawing.Point(12, 103);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(229, 18);
             this.label2.TabIndex = 5;
@@ -96,19 +97,30 @@
             // 
             // label3
             // 
-            this.label3.Location = new System.Drawing.Point(12, 196);
+            this.label3.Location = new System.Drawing.Point(12, 304);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(229, 17);
             this.label3.TabIndex = 6;
             this.label3.Text = "Результат";
             this.label3.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // textSerch
+            // 
+            this.textSerch.Location = new System.Drawing.Point(12, 54);
+            this.textSerch.Name = "textSerch";
+            this.textSerch.Size = new System.Drawing.Size(229, 46);
+            this.textSerch.TabIndex = 8;
+            this.textSerch.Text = "Выбор файла с текстом ";
+            this.textSerch.UseVisualStyleBackColor = true;
+            this.textSerch.Click += new System.EventHandler(this.textSerch_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(253, 328);
+            this.ClientSize = new System.Drawing.Size(253, 421);
+            this.Controls.Add(this.textSerch);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -122,6 +134,8 @@
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
+        private System.Windows.Forms.Button textSerch;
 
         private System.Windows.Forms.Label label3;
 
